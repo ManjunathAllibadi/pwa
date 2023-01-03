@@ -325,7 +325,11 @@
     </a>
 </div>
 
-<div class="content" role="main">
+<div *ngIf="!isOnLine">
+  <h1>Your device is not connected to the internet</h1>
+</div>
+
+<div class="content" role="main" *ngIf="isOnLine">
 
   <!-- Highlight Card -->
   <div class="card highlight-card card-small">
