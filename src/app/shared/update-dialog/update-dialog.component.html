@@ -1,16 +1,19 @@
 <div class="container">
-        <div class="row" style="margin: 0;">
+    <mat-card>
+        <div class="row">
             <h1 mat-dialog-title>Updates are available!</h1>
             <h3 mat-dialog-title>Do you wanna update now ?</h3>
         </div>
 
         <div class="row" mat-dialog-actions>
-            <div class="col-3">
+            <div class="col-5">
                 <button mat-raised-button color="warn" (click)="onNoClick()">CANCEL</button>
             </div>
-        
-            <div class="col-3">
+            <div class="col-2"> </div>
+
+            <div class="col-5">
                 <button mat-raised-button color="primary" (click)="onOkClick()">UPDATE</button>
             </div>
         </div>
+    </mat-card>
 </div>
