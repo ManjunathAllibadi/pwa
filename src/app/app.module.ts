@@ -6,7 +6,8 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { UpdateDialogComponent } from './shared/update-dialog/update-dialog.component';
-import { MaterialModule } from './material/material.module';
+import { MaterialModule } from './material/material/material.module';
+
 
 @NgModule({
   declarations: [

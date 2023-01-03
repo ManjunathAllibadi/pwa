@@ -25,6 +25,8 @@ import {MatTooltipModule} from '@angular/material/tooltip';
 import {MatSlideToggleModule} from '@angular/material/slide-toggle';
 import {MatExpansionModule} from '@angular/material/expansion'; 
 import {MatRadioModule} from '@angular/material/radio';
+import {MatSliderModule } from '@angular/material/slider';
+
 
 const material = [
   MatButtonModule,
@@ -52,11 +54,15 @@ const material = [
   MatTooltipModule,
   MatSlideToggleModule,
   MatExpansionModule,
-  MatRadioModule
+  MatRadioModule,
+  MatSliderModule
 ]
 
+
+
 @NgModule({
-  imports: [material],
+  declarations: [],
+  imports:[material],
   exports:[material]
 })
 export class MaterialModule { }
