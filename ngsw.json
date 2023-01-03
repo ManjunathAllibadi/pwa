@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1672730631244,
+  "timestamp": 1672731356656,
   "index": "https://ManjunathAllibadi.github.io/pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://ManjunathAllibadi.github.io/pwa/favicon.ico",
         "https://ManjunathAllibadi.github.io/pwa/index.html",
-        "https://ManjunathAllibadi.github.io/pwa/main.3bd5696d3b87149e.js",
+        "https://ManjunathAllibadi.github.io/pwa/main.4d5004f623f9c862.js",
         "https://ManjunathAllibadi.github.io/pwa/manifest.webmanifest",
         "https://ManjunathAllibadi.github.io/pwa/polyfills.34533dffcf1674ff.js",
         "https://ManjunathAllibadi.github.io/pwa/runtime.c36cc7e9113b3eeb.js",
@@ -53,8 +53,8 @@
     "https://ManjunathAllibadi.github.io/pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://ManjunathAllibadi.github.io/pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://ManjunathAllibadi.github.io/pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://ManjunathAllibadi.github.io/pwa/index.html": "7fc0a51729427e31283b3f8b7cd10f3d0c08a3fd",
-    "https://ManjunathAllibadi.github.io/pwa/main.3bd5696d3b87149e.js": "9df4d6924bae1a0e02f28a419c3572b8d7cb2a81",
+    "https://ManjunathAllibadi.github.io/pwa/index.html": "052314257c1a99804a3a6eca76bfa9eeefcd8319",
+    "https://ManjunathAllibadi.github.io/pwa/main.4d5004f623f9c862.js": "c45a63fb243b176e323d94627ceef272590b6afb",
     "https://ManjunathAllibadi.github.io/pwa/manifest.webmanifest": "999b929e3fbf2ea831cff5df30e0647f962f14c3",
     "https://ManjunathAllibadi.github.io/pwa/polyfills.34533dffcf1674ff.js": "f61b2a432be6aa72fb86b524f08d8a94d23b9c26",
     "https://ManjunathAllibadi.github.io/pwa/runtime.c36cc7e9113b3eeb.js": "244310ba6c60c0cb0d923ef8c3dbe842d5501cc9",
