@@ -11,7 +11,7 @@ import {MatPaginatorModule} from '@angular/material/paginator';
 import {MatInputModule} from '@angular/material/input';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatListModule} from '@angular/material/list';
-import {MatDialogModule} from '@angular/material/dialog';
+import {MatDialog } from '@angular/material/dialog';
 import {MatGridListModule} from '@angular/material/grid-list';
 import {MatSelectModule} from '@angular/material/select';
 import {MatDatepickerModule} from '@angular/material/datepicker';
@@ -39,7 +39,7 @@ const material = [
   MatInputModule,
   MatFormFieldModule,
   MatListModule,
-  MatDialogModule,
+  MatDialog,
   MatGridListModule,
   MatSelectModule,
   MatDatepickerModule,
